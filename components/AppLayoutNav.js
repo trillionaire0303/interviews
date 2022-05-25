@@ -7,7 +7,7 @@ const AppLayoutNav = () => {
         <div className="d-flex flex-column flex-md-row align-items-center pb-3 mb-4 border-bottom">
             <Link href="/">
                 <a className="d-flex align-items-center text-dark text-decoration-none">
-                    <span className="fs-4">Interviews</span>
+                    <span className="fs-4">면접 리스트</span>
                 </a>
             </Link>
 

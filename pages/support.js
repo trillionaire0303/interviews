@@ -2,7 +2,9 @@ import AppLayout from "../components/AppLayout";
 
 const Support = () => {
     return(
-        <AppLayout></AppLayout>
+        <AppLayout>
+            
+        </AppLayout>
     )
 }
 
