@@ -22,7 +22,7 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta description="모든 직업의 면접 리스트를 무료로 확인하세요!" />
-        <title>면접 리스트</title>
+        <title>면접 질문 리스트</title>
       </Head>
       <Component {...pageProps} />
     </>
